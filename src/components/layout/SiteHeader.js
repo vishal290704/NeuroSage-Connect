@@ -15,7 +15,7 @@ export default function SiteHeader() {
         >
           <div className="flex h-11 w-11 items-center justify-center rounded-xl border border-[#D6E8E0] bg-white/70 shadow-sm transition-all duration-300 group-hover:bg-white">
             <Image
-              src="/images/neurosage-logo.svg"
+              src="/images/neurosage-logo.png"
               alt=""
               width={38}
               height={38}
