@@ -19,7 +19,7 @@
     "jose": "^6.2.12",
     "jsqr": "^1.4.0",
     "libphonenumber-js": "^1.13.15",
-    "lucide-react": "^1.59.0",
+    "lucide-react": "^1.60.0",
     "mongoose": "^9.11.2",
     "next": "16.4.2",
     "qrcode": "^1.5.4",
